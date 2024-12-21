@@ -25,7 +25,7 @@ Hello! I'm a passionate Frontend Developer who loves turning ideas into interact
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=singhosudip333&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Favourite Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
