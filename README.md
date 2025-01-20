@@ -102,9 +102,27 @@ I'm a passionate Frontend Developer who loves turning ideas into interactive, us
 ### 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhosudip333&theme=redical&hide_border=true" alt="Contribution Graph" />
 
+### 🎯 Future Goals
+- Master Next.js and TypeScript
+- Contribute more to open source
+- Build a full-stack web application
+- Learn cloud technologies
+- Improve UI/UX design skills
+
+### 🤝 Support
+<div align="center">
+  <a href="https://www.buymeacoffee.com/your-username" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
 ---
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=singhosudip333&icon=2&color=5" alt="Profile Views"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsinghosudip333&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views"/>
   
   ### Show some ❤️ by starring some repositories!
   
